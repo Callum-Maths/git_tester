@@ -1,0 +1,3 @@
+# ignore jpg and reciepts folder	
+*.jpg
+receipts/
